@@ -38,5 +38,6 @@ module.exports = {
   ],
   output: {
     filename: "bundle.js"
-  }
+  },
+  devtool: "eval-source-map"
 };
