@@ -5,6 +5,24 @@
 * ==========================================
 *
 */
+#education {
+  /* display: flex; */
+}
+
+.educationDate {
+
+}
+
+.workContainer {
+  background-color: black;
+  border: solid lightgray 1px;
+  padding: 5px;
+  width: 25%;
+}
+
+.educationP {
+
+}
 
 .navBar {
     background-color: black !important;
